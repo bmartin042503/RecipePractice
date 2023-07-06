@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RecipePractice</string>
+    <string name="add_recipe">Add recipe</string>
+    <string name="delete_recipe">Delete recipe</string>
+    <string name="add_ingredients">Add ingredients</string>
+    <string name="add_ingredient">Add ingredient</string>
+    <string name="recipes">Recipes</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="select_recipe">Select recipe</string>
+    <string name="recipe_name">Recipe name</string>
+    <string name="recipe_description">Recipe description</string>
+    <string name="ingredient_name">Ingredient name</string>
+    <string name="ingredient_count">Count</string>
+    <string name="ingredient_unit">Unit (mg, g..)</string>
+    <string name="save">Save</string>
+</resources>
